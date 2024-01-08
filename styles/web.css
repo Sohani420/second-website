@@ -1,0 +1,107 @@
+
+.banner{
+
+border-radius: 16px;
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+
+width: 1320px;
+height: 600px;
+flex-shrink: 0;
+display: flex;
+margin-left: 80px;
+position: relative;
+}
+
+.banner-text{
+position: absolute;
+top:0;
+color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+
+width: auto;
+}
+.banner-text-second{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+
+
+}
+
+.sentence img{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.line{
+
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-top: 60px;
+}
+
+.second-line{
+
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-top: 48px;
+}
+.third-line{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-top: 25px;
+}
+.new-year-photo{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+background: #FFF;
+display: flex;
+padding-left: 350px;
+padding-top: 60px;
+}
+.victor{
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+padding-left: 80px;
+padding-top: 80px;
+}
+#paint0_linear_114_9913{
+    fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    width: 1320px;
+height: 482px;
+flex-shrink: 0;
+margin: auto;
+margin-top: auto;
+}
